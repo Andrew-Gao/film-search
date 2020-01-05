@@ -1,0 +1,20 @@
+.header-background{
+    background-image: url(https://images.unsplash.com/photo-1546083381-2bed38b42cac?ixlib=rb-1.2.1&auto=format&fit=crop&w=2250&q=80);
+    box-sizing: border-box;
+    min-height: 100vh;
+    padding: 30vw 0 5vw;
+    position: relative;
+    transform-style: inherit;
+    width: 100vw;
+}
+.info-container{
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 0.2em;
+    margin: 0;
+    padding: 1em 0;
+    font-family: "Luna";
+    
+}
