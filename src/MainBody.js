@@ -191,15 +191,6 @@ class MainBody extends React.Component {
                     
                 </form>
                 
-               
-
-                {/* // From here on down is where the cards are with movie descriptions */}
-            
-                {/* this is how to get the image from the poster path http://image.tmdb.org/t/p/w250//y31QB9kn3XSudA15tV7UWQ9XLuW.jpg  */}
-                
-                
-                
-                
                 
                 <CardDeck style={{display: 'flex', flexDirection: 'row', backgroundColor: "#27292c"}}>
                 {this.state.movieCards}
